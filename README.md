@@ -1,6 +1,22 @@
 # miniprogram
 小程序主要包括小程序跨端框架和小程序引擎两部分。
 
+## 小程序各家规范
+* [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)
+* [支付宝小程序](https://opendocs.alipay.com/mini/developer/getting-started)
+* [百度小程序](https://smartprogram.baidu.com/docs/develop/tutorial/intro/)
+* [字节小程序](https://microapp.bytedance.com/docs/zh-CN/mini-app/introduction/plug-in/privacy-policy-process-guidelines)
+* [QQ小程序](https://q.qq.com/wiki/develop/miniprogram/frame/)
+* [京东小程序](https://mp.jd.com/)
+* [360小程序](http://so.mp.360.cn/#/)
+* [钉钉小程序](https://open.dingtalk.com/document/app)
+* [招商银行小程序](http://open.cloud.cmbchina.com/#/index)
+* [云闪付小程序](https://open.unionpay.com/tjweb/solution/detail?solId=52)
+* [民生科技小程序](https://www.mskj.com/upload/skin/static/wechat/index.htm)
+* [银商小程序](https://wiki.open.chinaums.com/)
+* [虎牙小程序](https://dev.huya.com/)
+* [W3C小程序白皮书](https://www.w3.org/TR/mini-app-white-paper/)
+
 ## 跨端框架
 * [mpvue](http://mpvue.com/)
 * [uniapp](https://uniapp.dcloud.net.cn/)
