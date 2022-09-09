@@ -1,5 +1,5 @@
 # miniprogram
-小程序主要包括小程序跨端框架和小程序引擎两部分。
+小程序
 
 ## 小程序各家规范
 * [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/)
@@ -46,3 +46,6 @@
 ## 性能优化
 * [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
 * [腾讯医药微信小程序性能优化：从0.9秒到0.5秒](https://mp.weixin.qq.com/s/kiLgCwfbak6CXHJWxomSeA)
+
+## 测试
+* [小程序自动化测试框架原理剖析](https://xie.infoq.cn/article/6412b1247ac7aae40e734ed5a)
