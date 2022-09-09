@@ -41,3 +41,7 @@
 * [实现微信小程序编译和运行环境系列(核心篇一)](https://github.com/gongmw/blog/issues/7)
 * [实现微信小程序编译和运行环境系列(核心篇二)](https://github.com/gongmw/blog/issues/8)
 * [实现微信小程序编译和运行环境系列(核心篇三) ](https://github.com/gongmw/blog/issues/9)
+
+### 性能优化
+* [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
+* [腾讯医药微信小程序性能优化：从0.9秒到0.5秒](https://mp.weixin.qq.com/s/kiLgCwfbak6CXHJWxomSeA)
