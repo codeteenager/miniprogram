@@ -17,7 +17,7 @@
 * [虎牙小程序](https://dev.huya.com/)
 * [W3C小程序白皮书](https://www.w3.org/TR/mini-app-white-paper/)
 
-## 跨端框架
+## 小程序框架
 * [mpvue](http://mpvue.com/)
 * [uniapp](https://uniapp.dcloud.net.cn/)
 * [Taro](https://taro.jd.com/)
@@ -26,6 +26,7 @@
 * [wepy](https://wepyjs.github.io/wepy-docs/)
 * [chameleon](https://cml.js.org/)
 * [Mars](https://github.com/max-team/Mars)
+* [wxa](https://github.com/WeBankFinTech/wxa)
 
 ## 小程序引擎
 ### 开源库
