@@ -45,6 +45,7 @@
 * [浅谈小程序开源业务架构建设之路](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247513710&idx=1&sn=f792e90d0f225e7370e908f2480382e8&chksm=c03e8612f7490f0494a83493c8d40911177489ad88c0265c78e77ad3044de071a432f50fd481&scene=21#wechat_redirect)
 * [百度开源小程序框架的架构演进和性能优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506342&idx=1&sn=277f148724a39b35eae11f1450019d0c&chksm=f9526ce5ce25e5f392229bbcff63b9fe6791c41e00a05e087677a09982d87b72ce6ffd116e35&scene=27#wechat_redirect)
 * [再谈字节小程序](https://mp.weixin.qq.com/s/bjAYSe7GtTGauwtzi63ITQ)
+* [小程序跨框架开发的探索与实践](https://jelly.jd.com/article/5fcee2220927570145049250)
 
 ## 性能优化
 * [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
