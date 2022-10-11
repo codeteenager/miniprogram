@@ -48,7 +48,7 @@
 * [小程序跨框架开发的探索与实践](https://jelly.jd.com/article/5fcee2220927570145049250)
 * [微信小程序原理分析和多端小程序架构原理（应该是全网最全了）](https://www.xuanbiyijue.com/2021/03/13/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90%EF%BC%88%E5%BA%94%E8%AF%A5%E6%98%AF%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E4%BA%86%EF%BC%89/)
 * [【2万字长文】深入浅出主流的几款小程序跨端框架原理](https://juejin.cn/post/6881597846307635214#heading-24)
-* [贝壳小程序运行原理概览](https://tehub.com/a/8zSdpmhzPA)
+* [贝壳小程序运行原理概览](https://juejin.cn/post/6991721372779020295)
 * [小红书自研小程序：电商体验与效果优化的运行时体系设计](https://blog.csdn.net/REDtech_1024/article/details/126778335)
 
 ## 性能优化
