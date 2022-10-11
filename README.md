@@ -46,6 +46,9 @@
 * [百度开源小程序框架的架构演进和性能优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506342&idx=1&sn=277f148724a39b35eae11f1450019d0c&chksm=f9526ce5ce25e5f392229bbcff63b9fe6791c41e00a05e087677a09982d87b72ce6ffd116e35&scene=27#wechat_redirect)
 * [再谈字节小程序](https://mp.weixin.qq.com/s/bjAYSe7GtTGauwtzi63ITQ)
 * [小程序跨框架开发的探索与实践](https://jelly.jd.com/article/5fcee2220927570145049250)
+* [微信小程序原理分析和多端小程序架构原理（应该是全网最全了）](https://www.xuanbiyijue.com/2021/03/13/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90%EF%BC%88%E5%BA%94%E8%AF%A5%E6%98%AF%E5%85%A8%E7%BD%91%E6%9C%80%E5%85%A8%E4%BA%86%EF%BC%89/)
+* [【2万字长文】深入浅出主流的几款小程序跨端框架原理](https://juejin.cn/post/6881597846307635214#heading-24)
+* [贝壳小程序运行原理概览](https://tehub.com/a/8zSdpmhzPA)
 
 ## 性能优化
 * [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
