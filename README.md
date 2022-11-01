@@ -51,6 +51,7 @@
 * [贝壳小程序运行原理概览](https://juejin.cn/post/6991721372779020295)
 * [小红书自研小程序：电商体验与效果优化的运行时体系设计](https://blog.csdn.net/REDtech_1024/article/details/126778335)
 * [手拉手带你体验贝壳开发新模式—贝壳小程序新鲜来袭](https://juejin.cn/post/6978716039752187911)
+* [独家！支付宝小程序技术架构全解析](https://www.dandelioncloud.cn/article/details/1496026495889006594)
 
 ## 性能优化
 * [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
