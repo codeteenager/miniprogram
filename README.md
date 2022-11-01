@@ -58,5 +58,8 @@
 * [微信小程序性能优化文档](https://developers.weixin.qq.com/miniprogram/dev/framework/performance/)
 * [微信小程序性能优化实践](https://developers.weixin.qq.com/community/business/course/000606628dc2e86dc0ddcbb115940d)
 
+## 监控
+* [同程艺龙小程序性能监控系统的探索与实践](https://blog.51cto.com/u_15060467/2679752)
+
 ## 测试
 * [小程序自动化测试框架原理剖析](https://xie.infoq.cn/article/6412b1247ac7aae40e734ed5a)
