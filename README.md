@@ -60,6 +60,8 @@
 
 ## 监控
 * [同程艺龙小程序性能监控系统的探索与实践](https://blog.51cto.com/u_15060467/2679752)
+* [腾讯云医小程序性能优化与监控的实战](https://heapdump.cn/article/3716923)
+* [开源 | 多端小程序日志采集方案](https://copyfuture.com/blogs-details/20211112164247588x)
 
 ## 测试
 * [小程序自动化测试框架原理剖析](https://xie.infoq.cn/article/6412b1247ac7aae40e734ed5a)
