@@ -27,3 +27,4 @@
 * [PC小程序底层架构的演进与探索](/miniprogram/pdf/PC小程序底层架构的演进与探索.pdf)
 * [Taro在多端浪潮下的选择与挑战](/miniprogram/pdf/Taro在多端浪潮下的选择与挑战.pdf)
 * [Taro+ReactNative开发App](/miniprogram/pdf/Taro+ReactNative开发App.pdf)
+* [小程序端到端全链路监控](/miniprogram/pdf/小程序端到端全链路监控.pdf)
