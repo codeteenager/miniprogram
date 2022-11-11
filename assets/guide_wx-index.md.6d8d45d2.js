@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.2ae82837.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/wx-index.md"}'),n={name:"guide/wx-index.md"};function r(o,s,c,d,i,p){return a(),t("div")}const m=e(n,[["render",r]]);export{x as __pageData,m as default};
