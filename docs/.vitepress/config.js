@@ -2,6 +2,13 @@ module.exports = {
     title: '揭秘小程序',
     description: '小程序技术重难点分析',
     base: '/miniprogram/',
+    head: [
+        ['link', { rel: 'icon', href: '/miniprogram/favicon.ico' }]
+    ],
+    markdown: {
+        lineNumbers: true, //显示代码行数
+    },
+    lastUpdated: true,
     themeConfig: {
         // siteTitle: false,
         // logo: "/logo.svg",
@@ -11,6 +18,8 @@ module.exports = {
                 link: "/guide/index"
             }
         ],
+        outlineTitle: '在本页面',
+        lastUpdatedText: '最近更新时间',
         footer: {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2022-present codeteenager'
