@@ -52,17 +52,15 @@
 * [手拉手带你体验贝壳开发新模式—贝壳小程序新鲜来袭](https://juejin.cn/post/6978716039752187911)
 * [独家！支付宝小程序技术架构全解析](https://www.dandelioncloud.cn/article/details/1496026495889006594)
 
-## 性能优化
+## 性能优化与监控
 * [小程序启动性能优化实践](https://mp.weixin.qq.com/s?__biz=Mzg5MjU0NTI5OQ==&mid=2247514864&idx=1&sn=23d48664f70a8b42fce5a5fa9412c606&chksm=c03e8a8cf749039a28d464e347777383250364567cfb04382da488a382a75436d7234922cdcf&scene=21#wechat_redirect)
 * [腾讯医药微信小程序性能优化：从0.9秒到0.5秒](https://mp.weixin.qq.com/s/kiLgCwfbak6CXHJWxomSeA)
 * [微信小程序性能优化文档](https://developers.weixin.qq.com/miniprogram/dev/framework/performance/)
 * [微信小程序性能优化实践](https://developers.weixin.qq.com/community/business/course/000606628dc2e86dc0ddcbb115940d)
 * [腾讯云医小程序性能优化与监控的实战](https://heapdump.cn/article/3716923)
-
-## 监控
 * [同程艺龙小程序性能监控系统的探索与实践](https://blog.51cto.com/u_15060467/2679752)
-* [腾讯云医小程序性能优化与监控的实战](https://heapdump.cn/article/3716923)
 * [开源 | 多端小程序日志采集方案](https://copyfuture.com/blogs-details/20211112164247588x)
+* [聊一聊微信小程序性能优化](https://cloud.tencent.com/developer/article/2016606)
 
 ## 测试
 * [小程序自动化测试框架原理剖析](https://xie.infoq.cn/article/6412b1247ac7aae40e734ed5a)
