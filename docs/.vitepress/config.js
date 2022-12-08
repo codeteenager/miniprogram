@@ -46,6 +46,10 @@ module.exports = {
                         {
                             text: "介绍",
                             link: "/guide/wx-index",
+                        },
+                        {
+                            text: "双线程模型",
+                            link: "/guide/wx-thread",
                         }
                     ],
                 }

@@ -57,6 +57,7 @@
 * [腾讯医药微信小程序性能优化：从0.9秒到0.5秒](https://mp.weixin.qq.com/s/kiLgCwfbak6CXHJWxomSeA)
 * [微信小程序性能优化文档](https://developers.weixin.qq.com/miniprogram/dev/framework/performance/)
 * [微信小程序性能优化实践](https://developers.weixin.qq.com/community/business/course/000606628dc2e86dc0ddcbb115940d)
+* [腾讯云医小程序性能优化与监控的实战](https://heapdump.cn/article/3716923)
 
 ## 监控
 * [同程艺龙小程序性能监控系统的探索与实践](https://blog.51cto.com/u_15060467/2679752)
