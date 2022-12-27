@@ -34,3 +34,5 @@
 * [小程序同构方案新思路](/miniprogram/pdf/小程序同构方案新思路.pdf)
 * [小程序在同程艺龙的性能优化实践](/miniprogram/pdf/小程序在同程艺龙的性能优化实践.pdf)
 * [微保小程序的开发与架构实践](/miniprogram/pdf/微保小程序的开发与架构实践.pdf)
+* [小程序框架-teddy滴滴出行](/miniprogram/pdf/小程序框架-teddy滴滴出行.pdf)
+* [移动端组件库如何和Taro结合](/miniprogram/pdf/移动端组件库如何和Taro结合.pdf)
