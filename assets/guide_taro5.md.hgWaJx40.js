@@ -103,7 +103,7 @@ import{_ as s,o as i,c as a,R as n,aL as p,aM as l}from"./chunks/framework.ktCRv
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">Taro.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">getStorage</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">({</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  key: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;">&#39;test&#39;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">,</span></span>
 <span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">  success</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">() {</span></span>
-<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">	</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">  }</span></span>
 <span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">})</span></span>
 <span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D;">// 在 Taro 里也可以这样调用</span></span>
